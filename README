@@ -3,3 +3,4 @@ EL proyecto se compone de los siguientes directorios:
         al dominio con nombre "paloma". La contraseña utilizada para crear los certificados es : "ismael".
     - La carpeta "HttpsCerts", contiene las clases java para poder abrir una url con los certificados creados.
     - La carpeta "project_files", contiene los ficheros originales del proyecto subido en la red.
+    - docker-compose.yml ; fichero que levanta el servicio nginx con la configuracion indicada en el fichero "nginx.cong"
