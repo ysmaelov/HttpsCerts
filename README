@@ -1,0 +1,5 @@
+EL proyecto se compone de los siguientes directorios:
+    - Carpeta "certs" donde se almacenan todos los certificados a utilizar. Los certificados se han creado para atacar
+        al dominio con nombre "paloma". La contraseña utilizada para crear los certificados es : "ismael".
+    - La carpeta "HttpsCerts", contiene las clases java para poder abrir una url con los certificados creados.
+    - La carpeta "project_files", contiene los ficheros originales del proyecto subido en la red.
